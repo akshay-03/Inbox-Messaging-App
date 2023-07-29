@@ -1,6 +1,6 @@
 spring:
   application:
-    name: inbox-app
+    name: inbox-app_main
   security:
     oauth2:
       client:
